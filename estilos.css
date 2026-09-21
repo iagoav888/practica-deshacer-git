@@ -4,3 +4,9 @@ body {
   font-family: sans-serif;
   color: #263238;
 }
+
+.aviso {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #eef6ff;
+}
