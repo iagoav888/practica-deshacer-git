@@ -1,0 +1,3 @@
+# Práctica para deshacer cambios en Git
+
+Proyecto individual para practicar la corrección segura de errores.
